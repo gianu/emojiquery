@@ -7,7 +7,7 @@ This minimal JQuery library add the ability to transform any emoji string into t
 Just select which portion of the of your html you want to transform and apply the emojify method (you must provide the path where the emoji are stored):
 
 ```javascript
-$('.my-selector').emojify({emoji_dir: "http://my-path-to/emoji});
+$('.my-selector').emojify({emoji_dir: "http://my-path-to/emoji"});
 ```
 
 ### Options
