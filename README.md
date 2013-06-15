@@ -28,4 +28,4 @@ $(.my-selector').emojify({
 
 ## Feedback and Issues
 
-If you find any issue, please [report it](/issues). Also you can improve the code and create a pull request.
+If you find any issue, please [report it](https://github.com/gianu/latest_tweets/issues). Also you can improve the code and create a pull request.
